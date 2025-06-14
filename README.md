@@ -1,7 +1,7 @@
-# PHP Project 🚀
+# PHP Code 🚀
 
 
-Welcome to our PHP project! 🎉 This repository contains the code for a [briefly describe the project]. 🤔
+Welcome to our PHP code 🎉 This repository contains the code for a [briefly describe the code]. 🤔
 
 ## Features 📝
 
